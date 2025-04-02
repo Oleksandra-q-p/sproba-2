@@ -1,5 +1,5 @@
-git clone https://github.com/Oleksandra-q-p/cproba-1.git
-cd cproba-1
+git clone https://github.com/Oleksandra-q-p/sproba-2.git
+cd sproba-2
 git checkout -b develop
 git checkout -b feature/main-layout
 git checkout feature/main-layout
